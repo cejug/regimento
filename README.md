@@ -1,4 +1,4 @@
-Regimento
-=========
+README
+======
 
-Esse regimento tem o objetivo de explicar o funcionamento do grupo de modo que a convivência entre os membros seja sempre pacífica e construtiva.
+Esse projeto tem o objetivo de coordenar a elaboração coletiva do regimento do CEJUG.
