@@ -10,11 +10,11 @@ que contribuam para o conhecimento dos demais membros e para o crescimento do gr
 
 Líderes são eleitos de acordo com as seguintes condições:
  
- * Convidado pela maioria dos atuais jug leaders
- * Voto da comunidade ( ex: Fulano será ou não jug leader )
+ * Membro convidado por um ou mais líderes.
+ * Membro aceito de forma unânime por todos os líderes em atividade.
+ * Líder legitimado através de voto favorável da maioria dos membros da comunidade.
 
 ## Disseminação de Conhecimento
 
-* Notícia do twitter tem que ir para a lista para divulgar, gerar discussão e ajudar mais membros. Pois muita coisa 
- se perde na timeline.
+* Conteúdo disseminado através de outros canais, como Facebook, Twitter, Google+, entre outros, também podem ser disseminados na lista de discussão quando houverem oportunidades para discussões construtivas.
 
