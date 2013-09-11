@@ -12,7 +12,7 @@ Líderes são eleitos de acordo com as seguintes condições:
  
  * Membro convidado por um ou mais líderes.
  * Membro aceito de forma unânime por todos os líderes em atividade.
- * Líder legitimado através de voto favorável da maioria dos membros da comunidade.
+ * Líder legitimado através de voto favorável da maioria dos membros da comunidade que decidiram votar.
 
 ## Disseminação de Conhecimento
 
