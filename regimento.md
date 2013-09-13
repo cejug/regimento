@@ -8,7 +8,7 @@ Esse regimento tem o objetivo de explicar o funcionamento do grupo de modo que a
 A liderança do CEJUG consiste em um ou mais membros que se destacam ao implementar, com sucesso e de forma consistente, ações
 que contribuam para o conhecimento dos demais membros e para o crescimento do grupo.
 
-Líderes são eleitos de acordo com pelo menos duas das seguintes condições abaixo:
+Líderes são eleitos de acordo com o cumprimento de todas as condições abaixo:
  
  * Membro convidado por um ou mais líderes.
  * Membro aceito de forma unânime por todos os líderes em atividade.
