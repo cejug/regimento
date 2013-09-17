@@ -24,13 +24,17 @@ Líderes são eleitos de acordo com o cumprimento de todas as condições abaixo
 
 * A empresa ou consultoria de recursos humanos precisa se identificar de modo que os membros se certifiquem da procedência da oferta.
 
+* A empresa ou consultoria de recursos humanos precisa repassar o máximo de informações relevantes para evitar a
+perda de tempo tanto do candidato quanto do ofertante da vaga, tais como: faixa salarial, benefícios, 
+local de trabalho e carga horária.
+
 ## Propagandas ou Venda na Lista
 
 * Somente produtos e serviços relacionados com tecnologia podem ser disseminados no grupo. Ex: Livros de Tecnologia, Eventos de Tecnologia, Treinamentos e etc.
 
 * Caso o membro deseje vender algo que fuja do escopo de discussão da lista, ele é obrigado a sortear um dos itens para a lista. Ex: João deseja vender 10 camisas na lista, nesse caso, ele é obrigado a sortear uma das camisas anunciadas para a comunidade.
 
-
+* Links para lojas virtuais ou contas pessoais de comércio eletrônico ou site de trocas virtuais não são permitidos.
 
 
 
