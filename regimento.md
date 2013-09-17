@@ -32,7 +32,7 @@ local de trabalho e carga horária.
 
 * Somente produtos e serviços relacionados com tecnologia podem ser disseminados no grupo. Ex: Livros de Tecnologia, Eventos de Tecnologia, Treinamentos e etc.
 
-* Caso o membro deseje vender algo que fuja do escopo de discussão da lista, ele é obrigado a sortear um dos itens para a lista. Ex: João deseja vender 10 camisas na lista, nesse caso, ele é obrigado a sortear uma das camisas anunciadas para a comunidade.
+* Se for enviado venda de produtos fora do escopo ou com link de lojas online (ecommerce) de qualquer natureza, o membro será avisado. Se persistir, será colocado sobre aviso direto na lista, a todos os membros, informando que ele foi avisado e que persistindo pela terceira vez será banido do grupo por 1 (um) mês com permissão apenas de leitura na lista e ao final do prazo, o membro persistir será banido definitivamente do grupo.
 
 * Links para lojas virtuais ou contas pessoais de comércio eletrônico ou site de trocas virtuais não são permitidos.
 
