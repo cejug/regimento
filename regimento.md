@@ -28,27 +28,6 @@ Líderes são eleitos de acordo com o cumprimento de todas as condições abaixo
 perda de tempo tanto do candidato quanto do ofertante da vaga, tais como: faixa salarial, benefícios, 
 local de trabalho e carga horária.
 
-* A empresa deverá utilizar o seguinte template:
-
-Requisitos Obrigatórios
-xxxxxxxx
-
-Conhecimentos Desejáveis
-xxxxxxxx
-
-Responsabilidades
-xxxxxxxx
-
-Horário
-xxxxxxxx
-
-Salário
-R$ xxxxxxxx ( PJ / CLT )
-
-Benefícios
-xxxxxxxx
-
-
 ## Propagandas ou Venda na Lista
 
 * Somente produtos e serviços relacionados com tecnologia podem ser disseminados no grupo. Ex: Livros de Tecnologia, Eventos de Tecnologia, Treinamentos e etc.
